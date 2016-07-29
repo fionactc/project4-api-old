@@ -1,0 +1,21 @@
+{
+  "name": "project4-api",
+  "authors": [
+    "Fiona <fionacheung224@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "ng-token-auth": "^0.0.29"
+  }
+}
